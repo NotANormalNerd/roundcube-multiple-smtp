@@ -8,7 +8,6 @@
 
 $rcmail_config['multiple_smtp_server'] = array (
     'GMX' => 'tls://mail.gmx.net:465',
-    'DF' => 'tls://sslout.df.eu:465',
     'US' => 'tls://westphal.uberspace.de:587'
 );
 
